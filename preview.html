@@ -3280,6 +3280,36 @@ body.audit-v2.visual-v3 #empathy .lv-empathy-wishes > strong + strong { margin-t
 </style>
     <style>
 /* Approved message and signature update, 2026-10-10. */
+#closing .vice-message {
+  font-size: 15px;
+  line-height: 2.15;
+}
+
+#closing .vice-message p,
+#closing .vice-message strong {
+  font-size: inherit;
+  line-height: inherit;
+}
+
+#closing .vice-message strong {
+  font-weight: 700;
+  color: inherit;
+}
+
+#closing .vice-message p.lv-message-key {
+  margin-top: 32px;
+}
+
+#closing .vice-message p.lv-message-key + p {
+  margin-top: 32px;
+}
+
+@media (max-width: 360px) {
+  #closing .vice-message {
+    font-size: 14px;
+  }
+}
+
 #closing .v2-signature .lv-message-signature-name {
   display: inline-flex;
   align-items: center;
@@ -4710,20 +4740,20 @@ body.audit-v2.visual-v3 #empathy .lv-empathy-wishes > strong + strong { margin-t
           </div>
           <div class="vice-message">
             <p>
-              私は、「肌は、資産」だと考えています。<br />
+              <strong>私は、「肌は、資産」だと考えています。</strong><br />
               年齢を重ねるほど、知識とお手入れの積み重ねが、その価値を決めていくからです。<br />
               そして、日々の生き方こそが肌をつくります。外見と内面は、つながっています。
             </p>
-            <p>
-              一人でも多くの女性にキレイを届け、未知なる自分に出会える場所であり続けたい。
+            <p class="lv-message-key">
+              <strong>一人でも多くの女性にキレイを届け、未知なる自分に出会える場所であり続けたい。</strong>
             </p>
             <p>
-              女性はみんな、ダイヤモンドの原石。<br />
+              <strong>女性はみんな、ダイヤモンドの原石。</strong><br />
               磨けば必ず、輝くダイヤモンドに生まれ変わります。
             </p>
             <p>
               生き方こそが、最高の笑顔をつくる。<br />
-              そう信じて、これからも一人ひとりの肌と、真剣に向き合っていきます。
+              そう信じて、これからも<strong>一人ひとりの肌と、真剣に向き合っていきます。</strong>
             </p>
           </div>
           <p class="v2-signature">
