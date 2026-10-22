@@ -1,0 +1,690 @@
+{
+  "preparedAtJst": "2026-10-22T11:16:51.252728+09:00",
+  "pages": [
+    {
+      "state": "public",
+      "label": "公開中版・軽量化前",
+      "variant": "without-empathy",
+      "variantLabel": "共感なし",
+      "file": "preview-20261022-public-without-empathy.html",
+      "url": "https://shusukesekitani-bit.github.io/laviora-lp-preview/archive-20261022/preview-20261022-public-without-empathy.html",
+      "source": "before/index.html",
+      "sourceSha256": "6df9c7edb86d2d51c2394d2089766632bc9618cc5aaaf3ca087dd400b376e545",
+      "previewSha256": "cf405c37831b2de61acd5e54cb1e1ab3bce6f3de38d63ebd9169d6b8b7bdb215",
+      "bodyCopyUnchanged": true,
+      "trackingDisabled": true,
+      "lineDisabled": true
+    },
+    {
+      "state": "public",
+      "label": "公開中版・軽量化前",
+      "variant": "with-empathy",
+      "variantLabel": "共感あり",
+      "file": "preview-20261022-public-with-empathy.html",
+      "url": "https://shusukesekitani-bit.github.io/laviora-lp-preview/archive-20261022/preview-20261022-public-with-empathy.html",
+      "source": "before/story/index.html",
+      "sourceSha256": "5f33b95fe145986a11f6f555d8f2668aa34a6ea8db7167da4a00bdc6cac93908",
+      "previewSha256": "530d496925ba31d828438c41e8e126a140eef9ddb70536c710523aecd523be14",
+      "bodyCopyUnchanged": true,
+      "trackingDisabled": true,
+      "lineDisabled": true
+    },
+    {
+      "state": "optimized",
+      "label": "軽量化版・本番未反映",
+      "variant": "without-empathy",
+      "variantLabel": "共感なし",
+      "file": "preview-20261022-optimized-without-empathy.html",
+      "url": "https://shusukesekitani-bit.github.io/laviora-lp-preview/archive-20261022/preview-20261022-optimized-without-empathy.html",
+      "source": "after/index.html",
+      "sourceSha256": "aaaf5c4e9fd191f988b0b8ee3abe4269a355b6ee455899e4a4fe819407bee4ca",
+      "previewSha256": "6d12a6d89238ebdaad9b5e89011c7c2349b12cd530bea6c057de658722776063",
+      "bodyCopyUnchanged": true,
+      "trackingDisabled": true,
+      "lineDisabled": true
+    },
+    {
+      "state": "optimized",
+      "label": "軽量化版・本番未反映",
+      "variant": "with-empathy",
+      "variantLabel": "共感あり",
+      "file": "preview-20261022-optimized-with-empathy.html",
+      "url": "https://shusukesekitani-bit.github.io/laviora-lp-preview/archive-20261022/preview-20261022-optimized-with-empathy.html",
+      "source": "after/story/index.html",
+      "sourceSha256": "a5b14213c1ef8ac4f3741d660ff3acd79b5982dacfe4ff89ac4b97d8783d7caa",
+      "previewSha256": "7b9f64908a41c614cfa10e22d43adfe967090beaa753b985d940984e002f0a56",
+      "bodyCopyUnchanged": true,
+      "trackingDisabled": true,
+      "lineDisabled": true
+    }
+  ],
+  "media": [
+    {
+      "file": "media-20261022-a9337a7e79c0fc50.png",
+      "bytes": 1579,
+      "sha256": "a9337a7e79c0fc505f77c0259aef1a2b6011a0ab6862592821d45b8c495746ca",
+      "sources": [
+        "before\\apple-touch-icon.png",
+        "after\\apple-touch-icon.png"
+      ]
+    },
+    {
+      "file": "media-20261022-5463a416f4404812.svg",
+      "bytes": 7242,
+      "sha256": "5463a416f44048127100f492a389ed653ba10d352c0dc48c66dad00ee7cd53c2",
+      "sources": [
+        "before\\images\\logo.svg",
+        "after\\images\\logo.svg"
+      ]
+    },
+    {
+      "file": "media-20261022-6ef3fabace13c33d.woff2",
+      "bytes": 37848,
+      "sha256": "6ef3fabace13c33d26968c203d685a170093288e4163bd139a0c8ef94bb4f409",
+      "sources": [
+        "before\\assets\\asset-6ef3fabace13c33d.woff2",
+        "after\\assets\\asset-6ef3fabace13c33d.woff2"
+      ]
+    },
+    {
+      "file": "media-20261022-f664080f35273563.woff2",
+      "bytes": 38168,
+      "sha256": "f664080f35273563c555ceb23ab4f4c4dcbbba2ab784d1866efbe26ee0e4dde1",
+      "sources": [
+        "before\\assets\\asset-f664080f35273563.woff2",
+        "after\\assets\\asset-f664080f35273563.woff2"
+      ]
+    },
+    {
+      "file": "media-20261022-d3eeea677ebdd300.woff2",
+      "bytes": 39696,
+      "sha256": "d3eeea677ebdd300f170f34293a9fb44c1251b0f4de3d662969ec7d99f1c45c6",
+      "sources": [
+        "before\\assets\\asset-d3eeea677ebdd300.woff2",
+        "after\\assets\\asset-d3eeea677ebdd300.woff2"
+      ]
+    },
+    {
+      "file": "media-20261022-53ee7277bab27a4b.woff2",
+      "bytes": 39540,
+      "sha256": "53ee7277bab27a4b350f9b8b1be07a4e36ab64e2a5f27f66b549ccb6a99aeba7",
+      "sources": [
+        "before\\assets\\asset-53ee7277bab27a4b.woff2",
+        "after\\assets\\asset-53ee7277bab27a4b.woff2"
+      ]
+    },
+    {
+      "file": "media-20261022-65307f293b665740.woff2",
+      "bytes": 40876,
+      "sha256": "65307f293b665740fc71a7eeb6e718b55d649513fbb7a6a984c5af8628d26774",
+      "sources": [
+        "before\\assets\\asset-65307f293b665740.woff2",
+        "after\\assets\\asset-65307f293b665740.woff2"
+      ]
+    },
+    {
+      "file": "media-20261022-03866b10ffcda34e.png",
+      "bytes": 1883723,
+      "sha256": "03866b10ffcda34e65dc34bfeb74fdd52aaaa52b8875a6540e572f2675b12094",
+      "sources": [
+        "before\\assets\\asset-03866b10ffcda34e.png"
+      ]
+    },
+    {
+      "file": "media-20261022-5952033e461a34d7.png",
+      "bytes": 2098979,
+      "sha256": "5952033e461a34d73ce47bc5bffbc644e5c1113af7763ca6870be6b2ba8f6ac8",
+      "sources": [
+        "before\\assets\\asset-5952033e461a34d7.png"
+      ]
+    },
+    {
+      "file": "media-20261022-a6c11b16d4cd8733.png",
+      "bytes": 2058013,
+      "sha256": "a6c11b16d4cd8733e7e3307fb9c84c15708d9cc25ce17b08c771b247d56087e3",
+      "sources": [
+        "before\\assets\\kusumi-keratin-watercolor.png"
+      ]
+    },
+    {
+      "file": "media-20261022-d6a05e8c2776411f.mp4",
+      "bytes": 9525735,
+      "sha256": "d6a05e8c2776411f9aff197d64adab1fb59192622307498fd87fc1861c0dca45",
+      "sources": [
+        "before\\assets\\fv-video-original-crop20-d6a05e8c2776411f.mp4"
+      ]
+    },
+    {
+      "file": "media-20261022-21b0355fec3d5764.jpg",
+      "bytes": 207437,
+      "sha256": "21b0355fec3d57649ecc7ebc50596f45bedc09bae3f75fa7cf0aa513ae03315f",
+      "sources": [
+        "before\\images\\case-v5-06.jpg"
+      ]
+    },
+    {
+      "file": "media-20261022-85e715949a3921a8.jpg",
+      "bytes": 209354,
+      "sha256": "85e715949a3921a8a0b2d0849b090425d820ff1364c3ecd1e4adaa8e078d3a8a",
+      "sources": [
+        "before\\images\\case-v5-02.jpg"
+      ]
+    },
+    {
+      "file": "media-20261022-47dc7c76d3063d5f.jpg",
+      "bytes": 221553,
+      "sha256": "47dc7c76d3063d5fc13fc1a31081eead1d0b42b2d502eda04a04226f6d265ec9",
+      "sources": [
+        "before\\images\\case-v5-03.jpg"
+      ]
+    },
+    {
+      "file": "media-20261022-a9cf07942af16dd5.jpg",
+      "bytes": 197761,
+      "sha256": "a9cf07942af16dd53f7821e3f871e6dfae99c588efd5f056ef043b2eb30d4a3b",
+      "sources": [
+        "before\\images\\case-v5-04.jpg"
+      ]
+    },
+    {
+      "file": "media-20261022-920471390d97a530.jpg",
+      "bytes": 177123,
+      "sha256": "920471390d97a5306c8af0d3e3c8fa8685cdd1f8e6aaf5f6fb3ec3ef76d99ced",
+      "sources": [
+        "before\\images\\case-v41-pores.jpg"
+      ]
+    },
+    {
+      "file": "media-20261022-a723742278168758.jpg",
+      "bytes": 212072,
+      "sha256": "a7237422781687589a566a0381eb8c93263e794d7c921329a9d19cd12b29e0f5",
+      "sources": [
+        "before\\images\\case-v5-05.jpg"
+      ]
+    },
+    {
+      "file": "media-20261022-c3e019f88875b3c9.jpg",
+      "bytes": 223134,
+      "sha256": "c3e019f88875b3c9eba7f3e8a843d8b806e697d3d2e8c0531cb665a3b55aa814",
+      "sources": [
+        "before\\images\\case-v5-01.jpg"
+      ]
+    },
+    {
+      "file": "media-20261022-d5da527b2f8e9677.png",
+      "bytes": 1631480,
+      "sha256": "d5da527b2f8e9677765ce92fd04db4e741804609fcb94603e301db05d642a158",
+      "sources": [
+        "before\\assets\\why-renewal-user.png"
+      ]
+    },
+    {
+      "file": "media-20261022-d9770c8dca601659.png",
+      "bytes": 1792560,
+      "sha256": "d9770c8dca6016597e2bb1d1fcfb1ddf1093d2e1eaf1d04223d3c91fdb8ce4d6",
+      "sources": [
+        "before\\assets\\why-cell-care-user.png"
+      ]
+    },
+    {
+      "file": "media-20261022-1b3426afb1754d5b.webp",
+      "bytes": 22404,
+      "sha256": "1b3426afb1754d5ba7b47dfd7e4eace8573126e0825b6f7b01807061f9b18d88",
+      "sources": [
+        "before\\images\\03_treatment_herb.webp",
+        "after\\images\\03_treatment_herb.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-2f51254a2dda5847.svg",
+      "bytes": 1377,
+      "sha256": "2f51254a2dda5847e1197579ec0dc601b5649ac300618be9548f42a7cc3d4b0e",
+      "sources": [
+        "before\\images\\care-principle-1.svg",
+        "after\\images\\care-principle-1.svg"
+      ]
+    },
+    {
+      "file": "media-20261022-172005d034db5727.svg",
+      "bytes": 2055,
+      "sha256": "172005d034db5727da94e0fa3978bd3bddabcb11e80c9a64fa67bcee69b234bd",
+      "sources": [
+        "before\\images\\care-principle-2.svg",
+        "after\\images\\care-principle-2.svg"
+      ]
+    },
+    {
+      "file": "media-20261022-d91ca44f85539000.svg",
+      "bytes": 3382,
+      "sha256": "d91ca44f85539000a29467e7b7ee4c398b46b55e6d7bedb9e66d9a24ec81692e",
+      "sources": [
+        "before\\images\\care-principle-3.svg",
+        "after\\images\\care-principle-3.svg"
+      ]
+    },
+    {
+      "file": "media-20261022-bdced04f59ee462d.jpg",
+      "bytes": 51894,
+      "sha256": "bdced04f59ee462dc40a425e1fc478a2808138f6902a63472c797cacd0fc4882",
+      "sources": [
+        "before\\images\\consultation-real.jpg"
+      ]
+    },
+    {
+      "file": "media-20261022-e9a17d062f7910bc.png",
+      "bytes": 127875,
+      "sha256": "e9a17d062f7910bc4c26398d6ad101d578369effc1dd10356c38a77422922c07",
+      "sources": [
+        "before\\assets\\asset-e9a17d062f7910bc.png"
+      ]
+    },
+    {
+      "file": "media-20261022-15948671ef71df05.png",
+      "bytes": 128907,
+      "sha256": "15948671ef71df05b6597779aa7a1e0f8f308b400a0f39caf9de656dc5a72cdb",
+      "sources": [
+        "before\\assets\\asset-15948671ef71df05.png"
+      ]
+    },
+    {
+      "file": "media-20261022-94c2ddb6beffcc2d.png",
+      "bytes": 130621,
+      "sha256": "94c2ddb6beffcc2d604c531c7655e06d4b9d5ef5b4448e86952f6a236a914d96",
+      "sources": [
+        "before\\assets\\asset-94c2ddb6beffcc2d.png"
+      ]
+    },
+    {
+      "file": "media-20261022-136152a02e15d805.webp",
+      "bytes": 13984,
+      "sha256": "136152a02e15d805e93c52fd17ebcb9f8ff2b64ab0ec7fd54eab086e16b20a3b",
+      "sources": [
+        "before\\images\\voice-selected-70.webp",
+        "after\\images\\voice-selected-70.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-badceaf611b639ee.webp",
+      "bytes": 12778,
+      "sha256": "badceaf611b639eec50952eddd4e29acb6d55e05e7a1eeb878fa8187856cbd3c",
+      "sources": [
+        "before\\images\\voice-selected-99.webp",
+        "after\\images\\voice-selected-99.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-95cf74ff166de02d.webp",
+      "bytes": 17320,
+      "sha256": "95cf74ff166de02df8d083844a88c36c5d11046a8c6c26dce5dd0c9302e16339",
+      "sources": [
+        "before\\images\\voice-selected-66.webp",
+        "after\\images\\voice-selected-66.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-d1800f24f814ee65.webp",
+      "bytes": 15906,
+      "sha256": "d1800f24f814ee653fb478080a1fbb825a5f7c477406306fc659fd3674b5e387",
+      "sources": [
+        "before\\images\\voice-selected-91.webp",
+        "after\\images\\voice-selected-91.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-7b276a53003aaf8a.webp",
+      "bytes": 32732,
+      "sha256": "7b276a53003aaf8a6c299001a1accb87daa6f46b07785b3ed921c8095a650200",
+      "sources": [
+        "before\\images\\voice-selected-88.webp",
+        "after\\images\\voice-selected-88.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-faf2dcb0ce404d14.png",
+      "bytes": 498606,
+      "sha256": "faf2dcb0ce404d14dbf938288b042967823465a7fe030519e7c736b055c34ccf",
+      "sources": [
+        "before\\images\\media-publications.png"
+      ]
+    },
+    {
+      "file": "media-20261022-e0ff0d6a9865c085.webp",
+      "bytes": 13086,
+      "sha256": "e0ff0d6a9865c08515c21d00e67a1c77b16558f343ff4f218699522845b646ab",
+      "sources": [
+        "before\\images\\optimized-v35\\hot-pepper-beauty-award-provided.webp",
+        "after\\images\\optimized-v35\\hot-pepper-beauty-award-provided.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-90a17f48e0a729b7.webp",
+      "bytes": 47332,
+      "sha256": "90a17f48e0a729b7b9ed0505de2556ff8622b864f3f0317c99dd18c81ddf7a84",
+      "sources": [
+        "before\\images\\01_store_private_room.webp",
+        "after\\images\\01_store_private_room.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-afc257a680be9e74.webp",
+      "bytes": 21530,
+      "sha256": "afc257a680be9e74dfb45fd9105a7be99ff3397426108832fdab278a33b1b284",
+      "sources": [
+        "before\\images\\staff-portrait-01.webp",
+        "after\\images\\staff-portrait-01.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-8b1a9278b7b74367.webp",
+      "bytes": 23008,
+      "sha256": "8b1a9278b7b74367587966e3e0399987ba130d8d83a79bdff383691923b9ca8e",
+      "sources": [
+        "before\\images\\staff-portrait-02.webp",
+        "after\\images\\staff-portrait-02.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-79e293df4aeabb05.webp",
+      "bytes": 20228,
+      "sha256": "79e293df4aeabb05c5e8f7314271401fb4ae6ccf7289a82fc719dcae14f6f943",
+      "sources": [
+        "before\\images\\staff-portrait-03.webp",
+        "after\\images\\staff-portrait-03.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-ebd3878bb2fb3ee8.png",
+      "bytes": 274149,
+      "sha256": "ebd3878bb2fb3ee867eb2458cf1403c6e697eb6446c2e90d5aa2c5f2ab018b42",
+      "sources": [
+        "before\\images\\quality-research-provided.png"
+      ]
+    },
+    {
+      "file": "media-20261022-b9699fa9ac8b0e3f.webp",
+      "bytes": 24728,
+      "sha256": "b9699fa9ac8b0e3f66edbd38e17b33aca8fbc3fa7642d94ddc71eff4655abb54",
+      "sources": [
+        "before\\images\\optimized-v35\\process-01.webp",
+        "after\\images\\optimized-v35\\process-01.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-028ebf5e16c018e8.webp",
+      "bytes": 14152,
+      "sha256": "028ebf5e16c018e8fb775803c0adcde13dec09bf24f1a1c9501e454aa14a937b",
+      "sources": [
+        "before\\images\\optimized-v35\\process-02.webp",
+        "after\\images\\optimized-v35\\process-02.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-984b1d180fb695da.webp",
+      "bytes": 20568,
+      "sha256": "984b1d180fb695da3a16d0624bc97e2eeb7ddd40a1c81dc962c95cf2273eac53",
+      "sources": [
+        "before\\images\\optimized-v35\\process-03.webp",
+        "after\\images\\optimized-v35\\process-03.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-9d8d8243227c7666.webp",
+      "bytes": 14234,
+      "sha256": "9d8d8243227c7666bf9e27280b48846e12011bb3666d73d3cb310fd9c9ab48c0",
+      "sources": [
+        "before\\images\\optimized-v35\\process-04.webp",
+        "after\\images\\optimized-v35\\process-04.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-2b073496467fd4dc.webp",
+      "bytes": 14690,
+      "sha256": "2b073496467fd4dc6a0e29445773c901837898d3e7139f6709ef3210ba78bc72",
+      "sources": [
+        "before\\images\\optimized-v35\\process-05.webp",
+        "after\\images\\optimized-v35\\process-05.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-a1dbf2374b81c9b1.webp",
+      "bytes": 24312,
+      "sha256": "a1dbf2374b81c9b1236df38aed38e14955c7df8294925573aab928001dcb1418",
+      "sources": [
+        "before\\images\\optimized-v35\\process-06.webp",
+        "after\\images\\optimized-v35\\process-06.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-c49c1db635c88fca.jpg",
+      "bytes": 3293966,
+      "sha256": "c49c1db635c88fcafd6eb06b6f99403cc5cb25d39b235b7ac1f0519dcade6b0f",
+      "sources": [
+        "before\\images\\vice-president-portrait.jpg"
+      ]
+    },
+    {
+      "file": "media-20261022-36e66950d36cc740.png",
+      "bytes": 530419,
+      "sha256": "36e66950d36cc740c71bf12ec1f2a24df2008b78585e8c5ae73122a496c1dd2e",
+      "sources": [
+        "before\\images\\message-diamond.png"
+      ]
+    },
+    {
+      "file": "media-20261022-1e7129e6c0a8830d.png",
+      "bytes": 2437963,
+      "sha256": "1e7129e6c0a8830d3a9280af01a6c17e5afc464f2eb38a1baa864328d6446bfe",
+      "sources": [
+        "before\\assets\\empathy-20-30-skin-improvement-latest-background.png"
+      ]
+    },
+    {
+      "file": "media-20261022-02b62f52699293c5.woff2",
+      "bytes": 243936,
+      "sha256": "02b62f52699293c5221dfbaadf77be8b307d016c642ff8c30beaa7244447d977",
+      "sources": [
+        "after\\assets\\fonts\\noto-02b62f52699293c5.woff2"
+      ]
+    },
+    {
+      "file": "media-20261022-2e2c5d43d9d4f8a8.woff2",
+      "bytes": 334340,
+      "sha256": "2e2c5d43d9d4f8a81ca1df78528c4c2e08c2cdebede8b1e1336e2207df3b86d3",
+      "sources": [
+        "after\\assets\\fonts\\noto-2e2c5d43d9d4f8a8.woff2"
+      ]
+    },
+    {
+      "file": "media-20261022-89c20aa008fd56f7.mp4",
+      "bytes": 2692806,
+      "sha256": "89c20aa008fd56f79c02f452a9009137f619fac942e6892a78bf3efb80b39aa3",
+      "sources": [
+        "after\\assets\\fv-optimized-20261021.mp4"
+      ]
+    },
+    {
+      "file": "media-20261022-78af7aa2b39eb006.webp",
+      "bytes": 143784,
+      "sha256": "78af7aa2b39eb0063cec42b0a96cd4d2e9780cd38b66baebfc5e659f54fcd4bb",
+      "sources": [
+        "after\\images\\case-v5-06-optimized.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-4466977b0fe9e903.webp",
+      "bytes": 158220,
+      "sha256": "4466977b0fe9e903956dac4a369aaff7a36971f6710614f5cadeb12c94566028",
+      "sources": [
+        "after\\images\\case-v5-02-optimized.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-9bcf00702853568c.webp",
+      "bytes": 157372,
+      "sha256": "9bcf00702853568ccb2d77724bf82effb1468abe49fdb0522376080fcc2ecb69",
+      "sources": [
+        "after\\images\\case-v5-03-optimized.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-eecd3a44c0dcd04d.webp",
+      "bytes": 138100,
+      "sha256": "eecd3a44c0dcd04d1774619e9c15277e5d9642a34c9342e80db33766f33baec7",
+      "sources": [
+        "after\\images\\case-v5-04-optimized.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-05b03c05f6c19fad.webp",
+      "bytes": 87892,
+      "sha256": "05b03c05f6c19fad5549d573b5c20f5210f6b2b236ae2de3b9dbdbe28824d5dd",
+      "sources": [
+        "after\\images\\case-v41-pores-optimized.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-44ebd1d27b952563.webp",
+      "bytes": 130908,
+      "sha256": "44ebd1d27b952563170aa12c820b103e02a96238c5364250df9cebcbe55a3700",
+      "sources": [
+        "after\\images\\case-v5-05-optimized.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-5dc4ced1e3767667.webp",
+      "bytes": 141284,
+      "sha256": "5dc4ced1e3767667f9988e48993c5e575ec3a8546d16a2291f59e57675a1aeeb",
+      "sources": [
+        "after\\images\\case-v5-01-optimized.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-c4d103f240e2c13b.webp",
+      "bytes": 1071152,
+      "sha256": "c4d103f240e2c13b33a32cc9ca6aeefb0e5cdbac3e43a487d457ad669aedf23a",
+      "sources": [
+        "after\\assets\\why-renewal-user-optimized.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-974a5aed5df1ae50.webp",
+      "bytes": 1223194,
+      "sha256": "974a5aed5df1ae508b24f80d67678b7e9a3934a48f4877efeeeceac632fe1a0b",
+      "sources": [
+        "after\\assets\\why-cell-care-user-optimized.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-dc0090bbc474f5a1.webp",
+      "bytes": 25630,
+      "sha256": "dc0090bbc474f5a193d122fe27781be2f2c7f1cb4548bb333639843d635ab16a",
+      "sources": [
+        "after\\images\\consultation-real-optimized.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-608b62517df36b77.webp",
+      "bytes": 80732,
+      "sha256": "608b62517df36b7778449210756bfbcb062f9866212dc1214ae4e913bd136028",
+      "sources": [
+        "after\\assets\\asset-e9a17d062f7910bc-optimized.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-be8a5dd5e1400ca7.webp",
+      "bytes": 81740,
+      "sha256": "be8a5dd5e1400ca7383be30cbc4aa9d6f120608e4e23c26620d5b4994e604b76",
+      "sources": [
+        "after\\assets\\asset-15948671ef71df05-optimized.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-1e93faed60fb2db9.webp",
+      "bytes": 81368,
+      "sha256": "1e93faed60fb2db9cd918e12fba2b0a6bc597bbb549937625a9e37c577053381",
+      "sources": [
+        "after\\assets\\asset-94c2ddb6beffcc2d-optimized.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-ce539481c7276c62.webp",
+      "bytes": 324362,
+      "sha256": "ce539481c7276c6256713163db8e92f364c08fce20a67f73556775a450147a27",
+      "sources": [
+        "after\\images\\media-publications-optimized.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-a4b95d82830748ec.webp",
+      "bytes": 159114,
+      "sha256": "a4b95d82830748ecad570f701ca887b549d25f50c17668c298da46fde47577d6",
+      "sources": [
+        "after\\images\\quality-research-provided-optimized.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-e1be5b691f90b6c5.webp",
+      "bytes": 68808,
+      "sha256": "e1be5b691f90b6c50f2c68e4db51a27df46e6b1200a07758d6279cc3869e68ff",
+      "sources": [
+        "after\\images\\vice-president-portrait-optimized.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-c300c700d54f8ee7.webp",
+      "bytes": 232846,
+      "sha256": "c300c700d54f8ee77661c3f815c6ec50a0ae69a4917c22045b88e1ee506d5234",
+      "sources": [
+        "after\\images\\message-diamond-optimized.webp"
+      ]
+    },
+    {
+      "file": "media-20261022-b6e95a5594740044.webp",
+      "bytes": 1187012,
+      "sha256": "b6e95a559474004498bd8142ab8201dd9e5fcd5f1a55dec7ff8b8d9c2c7f4d90",
+      "sources": [
+        "after\\assets\\empathy-20-30-skin-improvement-latest-background-optimized.webp"
+      ]
+    }
+  ],
+  "sourceArchives": [
+    {
+      "state": "public",
+      "file": "source-20261022-public-01-of-02.zip",
+      "bytes": 18100755,
+      "sha256": "63427d6e9c15191a6fc7356bc185a4febbea6e72af47b7e7dd0401c9c5916d0c",
+      "files": 8
+    },
+    {
+      "state": "public",
+      "file": "source-20261022-public-02-of-02.zip",
+      "bytes": 12004538,
+      "sha256": "5f107aa237a6a65176878be3e57109e95d7a250073b22528488dfa60e90b9ff8",
+      "files": 50
+    },
+    {
+      "state": "optimized",
+      "file": "source-20261022-optimized-01-of-03.zip",
+      "bytes": 18409902,
+      "sha256": "7eedd6baa5591b30e58e080d4fea2172d19ee1e6c27a492dfcda9373759ec921",
+      "files": 7
+    },
+    {
+      "state": "optimized",
+      "file": "source-20261022-optimized-02-of-03.zip",
+      "bytes": 17672507,
+      "sha256": "aeafffec326fc2d77d433bf7b2268ebea46c5b3875c79867173cdba7060b488e",
+      "files": 15
+    },
+    {
+      "state": "optimized",
+      "file": "source-20261022-optimized-03-of-03.zip",
+      "bytes": 7069567,
+      "sha256": "758db9edf8a3f02b8fdd8d17556264b515ca7cee27f7762d0f8f295101699ee7",
+      "files": 64
+    }
+  ],
+  "sourceFilesFullyRecoveredAndShaVerified": true,
+  "existingPreviewModified": false,
+  "productionModified": false
+}
